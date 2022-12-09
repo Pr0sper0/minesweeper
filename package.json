@@ -1,0 +1,38 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Minesweeper game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pr0sper0/minesweeper.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Valerii Tarasov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pr0sper0/minesweeper/issues"
+  },
+  "homepage": "https://github.com/Pr0sper0/minesweeper#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.31.11",
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4"
+  }
+}
